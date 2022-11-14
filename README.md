@@ -3,7 +3,7 @@
 - 👨‍🎓 Químico de formação em transição de careira para TI;
 - 🌱 Estudando atualmente: HTML e CSS;
 - 😄 Pronomes: ele/dele;
-- 
+
 ## Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vontobel.pedro) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.vontobel/)
